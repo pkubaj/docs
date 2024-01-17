@@ -52,12 +52,12 @@ sudo apt install linux-oem-22.04a
 
 and reboot to use the new kernel.
 
-### Nvidia drivers
+### NVIDIA drivers
 
-> It is only necessary to follow this step if your device has Nvidia GPU
+> It is only necessary to follow this step if your device has NVIDIA GPU
 
 For proper working of the sleep mode on Ubuntu 22.04, it is required to
-install additional Nvidia drivers.
+install additional NVIDIA drivers.
 
 1. Install drivers by executing the following command in the terminal:
 
