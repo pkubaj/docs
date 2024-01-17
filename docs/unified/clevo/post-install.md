@@ -54,10 +54,10 @@ and reboot to use the new kernel.
 
 ### NVIDIA drivers
 
-> It is only necessary to follow this step if your device has NVIDIA GPU
+> This step is only necessary if your laptop has a discrete NVIDIA GPU.
 
-For proper working of the sleep mode on Ubuntu 22.04, it is required to
-install additional NVIDIA drivers.
+For complete power management and sleep mode support on Ubuntu, you may need to
+install additional drivers for the discrete GPU.
 
 1. Install drivers by executing the following command in the terminal:
 
