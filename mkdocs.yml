@@ -374,7 +374,7 @@ nav:
           - 'Overview': unified-test-documentation/overview.md
           - 'Generic Test Setup': unified-test-documentation/generic-test-setup.md
           - 'Dasharo compatibility':
-              - 'Coreboot Base Port': unified-test-documentation/dasharo-compatibility/100-coreboot-base-port.md
+              - 'coreboot Base Port': unified-test-documentation/dasharo-compatibility/100-coreboot-base-port.md
               - 'Memory HCL': unified-test-documentation/dasharo-compatibility/301-memory-hcl.md
               - 'Custom Boot Keys': unified-test-documentation/dasharo-compatibility/303-custom-boot-menu-key.md
               - 'Custom Logo': unified-test-documentation/dasharo-compatibility/304-custom-logo.md
@@ -453,7 +453,7 @@ nav:
               - 'Boot Guard support': unified-test-documentation/dasharo-security/207-boot-guard-support.md
               - 'TCG OPAL disk password support': unified-test-documentation/dasharo-security/208-opal-disk-password-support.md
           - 'Dasharo performance':
-              - 'Coreboot boot measure': unified-test-documentation/dasharo-performance/400-coreboot-boot-measure.md
+              - 'coreboot boot measure': unified-test-documentation/dasharo-performance/400-coreboot-boot-measure.md
               - 'Device boot measure': unified-test-documentation/dasharo-performance/403-device-boot-measure.md
               - 'CPU temperature measure': unified-test-documentation/dasharo-performance/401-cpu-temperature.md
               - 'CPU frequency measure': unified-test-documentation/dasharo-performance/402-cpu-frequency.md
